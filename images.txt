@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 youshandefeiyang/allinone
+#友善的肥羊的IPTV直播
+containrrr/watchtower
+# 检查更新镜像
