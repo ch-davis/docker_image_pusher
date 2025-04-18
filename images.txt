@@ -13,3 +13,5 @@ homeassistant/home-assistant
 #ha镜像
 hanxi/xiaomusic
 #小米播放本地音乐镜像
+#wireguard
+linuxserver/wireguard:latest
